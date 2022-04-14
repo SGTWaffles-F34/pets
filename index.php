@@ -16,7 +16,7 @@ $f3->route('GET /', function() {
     echo"<h1>Pets Home</h1>";
 
     //$view = new Template();
-    //echo $view->render('views/pets.html');
+    //echo $view->render('views/home.html');
 }
 );
 
