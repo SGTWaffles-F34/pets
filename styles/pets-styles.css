@@ -1,11 +1,14 @@
-h1{
-    text-align: center;
-}
+
 
 body{
     background-color: #b3d7ff;
 }
 
-image{
-    border: 2px solid white;
+h1{
+     display: block;
+     text-align: center;
+ }
+
+img{
+    border: 3px solid white;
 }
