@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/pets",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Gavin Sherman",
+      "email": "gavinmsherman@gmail.com"
+    },
+    {
+      "name": "Angel Campos",
+      "email": "campos.angel@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
